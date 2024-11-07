@@ -71,7 +71,7 @@ This project is designed to run locally in development. There are no special env
 ## Project Structure
 
 ```bash
-vue-traversy/
+find-job/
 ├── src/
 │   ├── assets/                 # Static assets (images, styles)
 │   ├── components/             # Reusable Vue components
